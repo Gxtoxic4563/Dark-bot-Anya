@@ -91,10 +91,10 @@ autoclean = []
 confirmer = {}
 
 
-START_IMG_URL = getenv("START_IMG_URL", "https://graph.org/file/72f160692b44c99ba8cf9-b1e025fae29c12500a.jpg")
-PING_IMG_URL = getenv("PING_IMG_URL", "https://graph.org/file/40b5617c674e66d94ca91-eb57d11a9f60e230c6.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://graph.org/file/5e19b207529494cbbd9a1-a96ede1789dd2f2c9b.jpg")
+PING_IMG_URL = getenv("PING_IMG_URL", "https://graph.org/file/369f22b8aac05a745eebe-15502d56e4da62f098.jpg")
 PLAYLIST_IMG_URL = "https://graph.org/file/4e81f00155356f3b5d8f5-a7c36abd8fdd11625c.jpg"
-STATS_IMG_URL = "https://graph.org/file/c07f2ac06917736c5d5ae-4e09340b4b56d5c72d.jpg"
+STATS_IMG_URL = "https://graph.org/file/39494f58c96056894d195-faeb332d77564ced6e.jpg"
 TELEGRAM_AUDIO_URL = "https://graph.org/file/182987be0b1ebc284f931-a69a0305ffc2f5b44e.jpg"
 TELEGRAM_VIDEO_URL = "https://graph.org/file/61ed76efa7ccc68c1a860-c83886fe4ff4bcae94.jpg"
 STREAM_IMG_URL = "https://graph.org/file/68d0fd87de32c473d16ba-63a3fbbaa7d6a0f731.jpg"
